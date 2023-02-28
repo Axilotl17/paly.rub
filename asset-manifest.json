@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paly.run/static/css/main.6a9aa027.css",
+    "main.js": "/paly.run/static/js/main.b69a2566.js",
+    "static/js/787.e02f6fec.chunk.js": "/paly.run/static/js/787.e02f6fec.chunk.js",
+    "index.html": "/paly.run/index.html",
+    "main.6a9aa027.css.map": "/paly.run/static/css/main.6a9aa027.css.map",
+    "main.b69a2566.js.map": "/paly.run/static/js/main.b69a2566.js.map",
+    "787.e02f6fec.chunk.js.map": "/paly.run/static/js/787.e02f6fec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9aa027.css",
+    "static/js/main.b69a2566.js"
+  ]
+}
